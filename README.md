@@ -16,7 +16,6 @@ Identify sites that are not real businesses but trying to scam people with fake 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 At his point almost everyone has been exposed to an online scam in one way or another.  The rate at which these scams are being developed is extremely high and there are virtually no mechanisms to identify or prevent these scams from hurting people.  Additoinally there is very little recourse to hold bad actors accountable for these crimes.
 
 
@@ -37,7 +36,6 @@ The solution will be to identify indicators (key words, website characteristics,
 - Machine Learning
 
 
-[Twitter API](https://developer.twitter.com/en/docs)
 
 | Syntax      | Description |
 | ----------- | ----------- |
@@ -46,7 +44,7 @@ The solution will be to identify indicators (key words, website characteristics,
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+The biggest challenge for this project will be connecting across multiple disparate data sources and collaborating across varied constituents.  
 
 ## What next?
 
