@@ -19,10 +19,6 @@ Identify sites that are not real businesses but trying to scam people with fake 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 At his point almost everyone has been exposed to an online scam in one way or another.  The rate at which these scams are being developed is extremely high and there are virtually no mechanisms to identify or prevent these scams from hurting people.  Additoinally there is very little recourse to hold bad actors accountable for these crimes.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
 
 
 ## How is it used?
