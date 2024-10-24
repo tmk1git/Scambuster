@@ -7,7 +7,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Scambuster
 
-Final project for the Building AI course
+Building AI course project
 
 ## Summary
 
