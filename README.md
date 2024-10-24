@@ -25,29 +25,17 @@ At his point almost everyone has been exposed to an online scam in one way or an
 
 The solution will be to identify indicators (key words, website characteristics, reviews etc) that can be used to identify fraudulent sites and/or interactions.   
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 
-<img![scambuster logo]/DALL·E 2024-10-24 14.04.44.jpg - A sleek and modern design for an AI tool called 'Scambusters'>
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="DALL·E 2024-10-24 14.04.44 - A sleek and modern design for an AI tool called 'Scambusters'. The logo features a magnifying glass over a digital fingerprint, symbolizing investigat.webp" alt="Scambusters logo" width="300px">
 
-This is how you create code examples:
-```
-def main():
-   
 
-   # write your solution here
-
-  
-main()
-```
 
 
 ## Data sources and AI methods
-General and Specialized GPTs.
-NLP
-Machine Learning
+- General and Specialized GPTs
+- NLP
+- Machine Learning
+
 
 [Twitter API](https://developer.twitter.com/en/docs)
 
@@ -69,3 +57,5 @@ This project will bennefit from wide collaboartaion across tech firms, law enfor
 * My Mom asked me to stop scammers when I told her I was learning about AI:) 
 * 
   <br>
+main()
+```
